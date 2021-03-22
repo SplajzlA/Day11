@@ -1,5 +1,5 @@
 // Create a monitorsListArray array here
-var monitorsListArray = ["Apple", "Peach", "Berry"]
+var monitorsListArray = ["Apple", "Peach", "Berry"];
 // End of monitorsListArray array
 
 function myMonitorsFunction(arr) {
